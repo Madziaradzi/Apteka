@@ -1,0 +1,12 @@
+appTEKA/
+├── DATABASE/
+│   ├── address.csv
+│   ├── customer.csv
+│   ├── drugs.xlsx
+│   └── users.csv
+├── main.py
+├── main_GUI.py
+├── manage.py
+├── customers.py
+├── README.md
+
